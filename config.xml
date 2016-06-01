@@ -9,9 +9,9 @@
 	
 	<name>Aplicación Cbtis 16</name>
 	
-	<descripcion>
+	<description>
 	    Aplicacion que muestra información del CBTIS 16
-	</descripcion>
+	</description>
 	
 	<preference name="phonegap-version" value="3.1.0"/>
 	
